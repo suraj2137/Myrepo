@@ -1,0 +1,14 @@
+/* Apply purple background to the entire page */
+body {
+    background-color: #800080;   /* Standard purple */
+    color: white;                /* Text color for good contrast */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Optional: center content */
+.container {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
